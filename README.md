@@ -1,5 +1,7 @@
 # Aprendendo Python - um guia básico de programação
 
+<img src="https://github.com/arbackes/Livro_Python/assets/54945366/e4ee1b28-1af3-4515-b94a-8b468751c4e4" width="400" height="400">
+
 É com grande entusiasmo que apresentamos esse material didático sobre a linguagem de programação Python. Python tem se destacado como uma das linguagens mais populares e versáteis do mundo da programação, conquistando desenvolvedores, cientistas de dados, engenheiros e estudantes de todas as áreas. 
 
 A ampla gama de bibliotecas e frameworks disponíveis para Python permite que você construa desde simples scripts até sistemas complexos, aplicativos web dinâmicos e soluções avançadas de análise de dados e inteligência artificial.
