@@ -1,1 +1,1 @@
-# Livro_Python
+# Aprendendo Python - um guia básico de programação
