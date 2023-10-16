@@ -1,6 +1,7 @@
 # Aprendendo Python - um guia básico de programação
+# ISBN: 978-65-00-83333-1
 
-<img src="https://github.com/arbackes/Livro_Python/assets/54945366/e4ee1b28-1af3-4515-b94a-8b468751c4e4" width="400" height="400">
+<img src="https://github.com/arbackes/Livro_Python/assets/54945366/9dfd34d2-efe8-4ed2-ab57-117b1addb051" width="400">
 
 É com grande entusiasmo que apresentamos esse material didático sobre a linguagem de programação Python. Python tem se destacado como uma das linguagens mais populares e versáteis do mundo da programação, conquistando desenvolvedores, cientistas de dados, engenheiros e estudantes de todas as áreas. 
 
